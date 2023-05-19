@@ -9,3 +9,4 @@ while True:
         break
 print(year)
 print(set_value)
+print(set_value)
