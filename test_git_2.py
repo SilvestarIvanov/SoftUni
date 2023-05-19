@@ -8,3 +8,4 @@ while True:
     if len(set(year_str)) == len(year_str):
         break
 print(year)
+print(set_value)
